@@ -16,9 +16,9 @@ Kullanıcı Dostu Arayüz: Hızlı ve verimli bir şekilde yardım çağrısınd
 
 Gereksinimler📋
 
-Ptyhon 3.x
-OpenCV
-MediaPip
+1-)Ptyhon 3.x
+2-)OpenCV
+3-)MediaPip
 
 Kullanım 📚
 
